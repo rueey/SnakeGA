@@ -13,7 +13,7 @@ G = Draw and output graph of average fitness<br/>
 ###### Example of fittest snake at Generation 122 <br/>
 ![alt text](https://github.com/cynicalpillow/SnakeGA/blob/master/showcase.gif)
 <br/>
-###### Average Fitness Graph over 400 generations
+###### Average Fitness Graph over 200 generations
 ![alt text](https://github.com/cynicalpillow/SnakeGA/blob/master/avg_fitness_graph.png)
 
 
